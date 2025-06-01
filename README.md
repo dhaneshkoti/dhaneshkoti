@@ -9,7 +9,7 @@
 
 ### 🎓 About Me
 
-- 🎓 I'm a **Computer Science student** at **Sreenidhi Institute of Science and Technology**, graduating in **2026**.
+- 🎓 I'm a **Information Technology student** at **Sreenidhi Institute of Science and Technology**, graduating in **2026**.
 - 🔍 I'm passionate about **Software Development**, **System Design**, **Computer Networks**, and **Real-Time Systems**.
 - 💡 I love solving real-world problems through clean code and intuitive UI/UX design.
 - 🧠 I'm actively expanding my knowledge in **DSA**, **Operating Systems**, and **Networking Protocols**.
